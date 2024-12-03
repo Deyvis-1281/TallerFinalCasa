@@ -1,0 +1,5 @@
+idProducto;nombreProducto;categoria;precio;cantidadDisponible
+1;Arroz;Granos;1200;5
+2;Lenteja;Granos;900;4
+3;Frijoles;Granos;1800;6
+4;papa;Tuberculo;900;10

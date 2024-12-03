@@ -1,0 +1,5 @@
+1;Arroz;Granos;1200;5
+2;Lenteja;Granos;900;4
+3;Frijoles;Granos;1800;6
+4;papa;Tuberculo;900;10
+5;Ceral de chocolate;Cereal;800;3

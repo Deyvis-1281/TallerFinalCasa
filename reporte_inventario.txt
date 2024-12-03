@@ -1,0 +1,9 @@
+Reporte de Inventario
+ID: 1, Nombre: Arroz, Categoría: Granos, Precio: 1200.0, Cantidad: 5, Valor: 6000.0
+ID: 2, Nombre: Lenteja, Categoría: Granos, Precio: 900.0, Cantidad: 4, Valor: 3600.0
+ID: 3, Nombre: Frijoles, Categoría: Granos, Precio: 1800.0, Cantidad: 6, Valor: 10800.0
+ID: 4, Nombre: papa, Categoría: Tuberculo, Precio: 900.0, Cantidad: 10, Valor: 9000.0
+ID: 5, Nombre: Ceral de chocolate, Categoría: Cereal, Precio: 8000.0, Cantidad: 23, Valor: 184000.0
+ID: 5, Nombre: Ceral de chocolate, Categoría: Cereal, Precio: 8000.0, Cantidad: 23, Valor: 184000.0
+----------------------
+Valor Total del Inventario: 397400.0
